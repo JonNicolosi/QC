@@ -1,0 +1,4 @@
+cat,rat,dog,hog,fish,rabbit,horse,10,
+boy
+balloon
+truck
